@@ -1,14 +1,26 @@
-This Android app use Vosk sdk for train model and do the authentication
-Vosk Speech Recognition Toolkit
-Vosk is an offline open source speech recognition toolkit. It enables speech recognition for 20+ languages and dialects - English, Indian English, German, French, Spanish, Portuguese, Chinese, Russian, Turkish, Vietnamese, Italian, Dutch, Catalan, Arabic, Greek, Farsi, Filipino, Ukrainian, Kazakh, Swedish, Japanese, Esperanto, Hindi, Czech, Polish. More to come.
+🎙️ Voice Authenticator for Android
+This Android application leverages Kaldi-Android for training custom voice models and uses the Vosk SDK for real-time voice authentication. It demonstrates how on-device speech recognition can be used for secure and efficient user verification.
 
-Vosk models are small (50 Mb) but provide continuous large vocabulary transcription, zero-latency response with streaming API, reconfigurable vocabulary and speaker identification.
+🚀 Features
+Offline voice recognition using Vosk
 
-Speech recognition bindings implemented for various programming languages like Python, Java, Node.JS, C#, C++, Rust, Go and others.
+Custom voice model training with Kaldi
 
-Vosk supplies speech recognition for chatbots, smart home appliances, virtual assistants. It can also create subtitles for movies, transcription for lectures and interviews.
+Lightweight and privacy-friendly (no internet required for inference)
 
-Vosk scales from small devices like Raspberry Pi or Android smartphone to big clusters.
+Designed for Android devices
 
-Documentation
-For installation instructions, examples and documentation visit Vosk Website.
+📊 Demo Accuracy
+Coming soon...
+
+🧠 Core Technologies
+🔊 Voice Recognition
+Vosk API: Lightweight, offline-capable speech recognition toolkit supporting multiple languages and platforms.
+
+🏋️‍♂️ Model Training
+Vosk Training Guide: Instructions for preparing and training voice models.
+
+Kaldi for Android (Docker): Dockerized environment for compiling Kaldi for Android.
+
+📦 Getting Started
+Setup instructions, build steps, and usage examples coming soon.
